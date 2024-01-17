@@ -1,0 +1,6 @@
+Optimized Metric Converter
+
+In this program I am allowing a user to make four different types of metric conversions.
+Not only that, but they can decide if they would like to make more conversions even after having made one already.
+This is done by either entering 1(to repeat the program) or 2(to end the program) 
+When the user is entering the type of metric they want to convert they are required to enter in the correct input, if the user enters the wrong input then they are told to re-enter one of the accepted inputs.
